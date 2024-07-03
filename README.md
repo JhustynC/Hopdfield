@@ -1,0 +1,1 @@
+#Usar el entorno virtual de Orange (minicinda o conda) para ejecutar el notebook
